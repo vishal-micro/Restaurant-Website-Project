@@ -26,35 +26,23 @@ const About = () => {
           },
         }}
       >
-        <Typography variant="h4">Welcome To My Resturant</Typography>
+        <Typography variant="h4">Welcome To My Restaurant</Typography>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat quod,
-          suscipit, aperiam totam autem culpa cum eveniet dolorum quasi est
-          perspiciatis laborum. Nam recusandae nihil quia odio voluptatibus
-          facere omnis facilis rerum? Ab eum beatae nobis reiciendis, qui
-          temporibus aliquid, nesciunt velit sed quam recusandae necessitatibus,
-          tempora maxime. Repellendus incidunt, maxime labore dolorum eos
-          aperiam unde? At veritatis nesciunt eos quas cupiditate blanditiis est
-          quam maiores, amet, soluta exercitationem voluptatum, veniam
-          assumenda? Ratione perferendis officiis deserunt nostrum aspernatur
-          sed asperiores! Earum sunt placeat ducimus sint, deleniti amet esse
-          saepe voluptatem commodi laudantium quibusdam repellat nobis libero at
-          consectetur adipisci ipsa.
+        <b>"Welcome to my Restaurant"</b> sets the tone for a warm and inviting dining experience, where every guest is embraced with hospitality and culinary delight. As you step through the doors, a cozy ambiance envelops you, characterized by soft lighting, tasteful decor, and perhaps the faint aroma of freshly prepared dishes drifting from the kitchen.
+
+The phrase itself is more than a greeting; it embodies a promise of exceptional service and a commitment to gastronomic pleasure. Whether it's a quaint bistro showcasing local flavors or a chic eatery offering international cuisine, the essence remains consistent: a dedication to ensuring each visitor feels not just welcomed, but cherished.
+
+In this restaurant, the welcome extends beyond mere words. It's reflected in the attentive staff members who anticipate your needs with a genuine smile. Perhaps it's the chef-owner who occasionally emerges from the kitchen to greet patrons personally, ensuring their dining experience exceeds expectations.
+
+The menu is a testament to culinary craftsmanship, carefully curated to satisfy diverse palates. From signature dishes that evoke nostalgia to innovative creations that push the boundaries of flavor, each plate is a work of art designed to tantalize and delight.
+
+The atmosphere hums with a convivial energy, whether you're enjoying a romantic dinner for two, a lively gathering of friends, or a celebratory family meal. Conversations flow freely, punctuated by laughter and the clinking of glasses.
+
+"Welcome to my restaurant" encapsulates a promise of quality, where every detail, from the ingredients sourced to the presentation of each dish, is meticulously crafted. It's an invitation to savor not just a meal, but an experience—an experience that leaves a lasting impression, compelling you to return time and again to rediscover the warmth and flavors that make this restaurant a cherished culinary destination.
         </p>
         <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-          deserunt libero reprehenderit cum sint fugit cumque temporibus modi
-          facere eveniet amet obcaecati ducimus harum velit maxime vel qui
-          voluptatibus quam odio corrupti saepe, voluptas dolorum quidem
-          tempore? Esse sapiente molestias minus enim quisquam dolorum eum culpa
-          ullam impedit velit quo, corporis ducimus numquam dignissimos
-          inventore maiores. Nam deleniti itaque nostrum neque dolorum dolores,
-          aliquam, voluptatum sapiente doloribus laborum perspiciatis ipsam, quo
-          ut nisi distinctio sunt nihil est blanditiis perferendis eveniet
-          nesciunt! Nostrum, voluptatum eveniet repellat vel officia deleniti
-          tempore voluptatibus perferendis esse eaque temporibus porro?
-          Aspernatur beatae deleniti illo autem!
+        
         </p>
       </Box>
     </Layout>

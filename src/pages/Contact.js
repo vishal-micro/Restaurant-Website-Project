@@ -21,10 +21,7 @@ const Contact = () => {
       <Box sx={{ my: 5, ml: 10, "& h4": { fontWeight: "bold", mb: 2 } }}>
         <Typography variant="h4">Contact My Resturant</Typography>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem odio
-          beatae ducimus magni nobis culpa praesentium velit expedita quae,
-          corrupti, pariatur inventore laboriosam consectetur modi impedit
-          error, repudiandae obcaecati doloribus.
+        To contact our restaurant, simply call our friendly staff at [phone number] or visit us at [address]. We're eager to assist with reservations, catering inquiries, or any special requests you may have. Reach out today and let us make your dining experience memorable!
         </p>
       </Box>
       <Box
